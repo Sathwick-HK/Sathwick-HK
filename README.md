@@ -34,12 +34,6 @@ I enjoy building backend applications, learning scalable system design concepts,
 
 ---
 
-## 📊 GitHub Stats
-
-![Sathwick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathwick-HK&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 🚀 Featured Projects
 
 [![Vehicle Inventory Management System](https://github-readme-stats.vercel.app/api/pin/?username=Sathwick-HK&repo=vehicle-inventory-management-system&theme=tokyonight&hide_border=true)](https://github.com/Sathwick-HK/vehicle-inventory-management-system)
