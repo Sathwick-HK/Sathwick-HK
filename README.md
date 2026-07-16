@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathwick H Kashyap
 ===========================================================================================================================================
 
-Aspiring Backend Developer | Python • Django • APIs
+Backend Developer | Python • Django • FastAPI • Cloud & DevOps Enthusiast
 ---------------------------------------------------
 
 I'm an aspiring Backend Developer transitioning into the IT industry with hands-on experience in Python, Django, REST APIs, SQL, and Git.
