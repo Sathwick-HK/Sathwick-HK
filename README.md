@@ -1,34 +1,34 @@
-# Hi 👋 My name is Sathwick H Kashyap
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathwick H Kashyap
+===========================================================================================================================================
 
-## Backend Developer | Python • Django • FastAPI • Cloud & DevOps Enthusiast
+Aspiring Backend Developer | Python • Django • APIs
+---------------------------------------------------
 
-I'm a Backend Developer with hands-on experience in Python, Django, REST APIs, SQL, Git, Docker, Kubernetes, and cloud technologies.
+I'm an aspiring Backend Developer transitioning into the IT industry with hands-on experience in Python, Django, REST APIs, SQL, and Git.
 
-Currently working at Amazon as a GO-AI Associate, where I have developed strong analytical thinking, attention to detail, and problem-solving skills in fast-paced production environments.
+Currently working at Amazon as a GO-AI Associate, where I developed strong analytical thinking, attention to detail, and problem-solving skills in fast-paced production environments.
 
-I enjoy building backend applications, learning scalable system design concepts, and improving my development skills through projects and continuous practice. I'm actively preparing for software engineering opportunities focused on backend development, cloud engineering, and DevOps.
+I enjoy building backend applications, learning scalable system design concepts, and improving my development skills through projects and continuous practice. I'm actively preparing for software engineering opportunities focused on backend and full-stack development.
 
-- 🌍 I'm based in Bengaluru, India
-- ✉️ You can contact me at **sathwick96@gmail.com**
-- 🧠 I'm currently learning Django REST Framework, Advanced Python, SQL Optimization, Backend System Design, and Azure Fundamentals (AZ-900)
-- 👥 I'm looking to collaborate on Backend projects, APIs, cloud-native applications, DevOps tooling, and open-source contributions
-- 💬 Ask me about Python, Django, REST APIs, Docker, Kubernetes, SQL, and backend development
+* 🌍  I'm based in Bengaluru, India
+* ✉️  You can contact me at [sathwick96@gmail.com](mailto:sathwick96@gmail.com)
+* 🧠  I'm currently learning Django REST Framework, Advanced Python, SQL Optimization, and Backend System Design.
+* 👥  I'm looking to collaborate on Backend projects, APIs, open-source contributions, and beginner-friendly full-stack applications.
+* 💬  Ask me about Passionate about continuous learning, clean code, and building scalable applications.
 
-## Skills
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+</p>
 
-Git • Python • JavaScript • TypeScript • React • Node.js • FastAPI • PostgreSQL • Linux • Docker • Kubernetes • Django
+### Socials
 
-## Socials
+<p align="left"> <a href="https://www.github.com/Sathwick-HK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/Sathwick-HK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/sathwick-h-kashyap-71756914b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-- GitHub: https://github.com/Sathwick-HK
-- GitLab: https://gitlab.com/Sathwick-HK
-- LinkedIn: https://www.linkedin.com/in/sathwick-h-kashyap-71756914b
+<b>My GitHub Stats</b>
 
-## GitHub Stats
+<a href="http://www.github.com/Sathwick-HK"><img src="https://github-readme-stats.vercel.app/api?username=Sathwick-HK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sathwick-HK's GitHub stats" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathwick-HK&show_icons=true&count_private=true)
+<b>Top Repositories</b>
 
-## Top Repositories
-
-- smart-inventory-platform
-- vehicle-inventory-management-system
+<div width="100%" align="center"><a href="https://github.com/Sathwick-HK/smart-inventory-platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathwick-HK&repo=smart-inventory-platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sathwick-HK/vehicle-inventory-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathwick-HK&repo=vehicle-inventory-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
