@@ -6,7 +6,6 @@ Backend Developer | Python • Django • FastAPI • Cloud & DevOps Enthusiast
 
 I'm a Backend Developer with hands-on experience in Python, Django, REST APIs, SQL, Git, Docker, Kubernetes, and cloud technologies.
 
-Currently working at Amazon as a GO-AI Associate, where I developed strong analytical thinking, attention to detail, and problem-solving skills in fast-paced production environments.
 
 I enjoy building backend applications, learning scalable system design concepts, and improving my development skills through projects and continuous practice. I'm actively preparing for software engineering opportunities focused on backend and full-stack development.
 
