@@ -33,9 +33,14 @@ I enjoy building backend applications, learning scalable system design concepts,
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-[![Vehicle Inventory Management System](https://github-readme-stats.vercel.app/api/pin/?username=Sathwick-HK&repo=vehicle-inventory-management-system&theme=tokyonight&hide_border=true)](https://github.com/Sathwick-HK/vehicle-inventory-management-system)
+### Vehicle Inventory Management System
+Production-style Django REST Framework application with JWT authentication, Docker, Kubernetes, CI/CD, Prometheus, and Grafana.
 
-[![Smart Inventory Platform](https://github-readme-stats.vercel.app/api/pin/?username=Sathwick-HK&repo=smart-inventory-platform&theme=tokyonight&hide_border=true)](https://github.com/Sathwick-HK/smart-inventory-platform)
+🔗 https://github.com/Sathwick-HK/vehicle-inventory-management-system
+
+### Smart Inventory Platform
+Full-stack inventory management application focused on scalable backend architecture and API development.
+
+🔗 https://github.com/Sathwick-HK/smart-inventory-platform
