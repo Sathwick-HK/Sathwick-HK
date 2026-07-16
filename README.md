@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer | Python • Django • FastAPI • Cloud & DevOps Enthusiast
 ---------------------------------------------------
 
-I'm an aspiring Backend Developer transitioning into the IT industry with hands-on experience in Python, Django, REST APIs, SQL, and Git.
+I'm a Backend Developer with hands-on experience in Python, Django, REST APIs, SQL, Git, Docker, Kubernetes, and cloud technologies.
 
 Currently working at Amazon as a GO-AI Associate, where I developed strong analytical thinking, attention to detail, and problem-solving skills in fast-paced production environments.
 
