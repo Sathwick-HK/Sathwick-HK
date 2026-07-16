@@ -35,12 +35,23 @@ I enjoy building backend applications, learning scalable system design concepts,
 ---
 ## 🚀 Featured Projects
 
-### Vehicle Inventory Management System
-Production-style Django REST Framework application with JWT authentication, Docker, Kubernetes, CI/CD, Prometheus, and Grafana.
+### 🚗 Vehicle Inventory Management System
+- Django REST Framework
+- JWT Authentication
+- Docker & Kubernetes
+- GitHub Actions CI/CD
+- Prometheus & Grafana
 
-🔗 https://github.com/Sathwick-HK/vehicle-inventory-management-system
+🔗 [View Repository](https://github.com/Sathwick-HK/vehicle-inventory-management-system)
 
-### Smart Inventory Platform
-Full-stack inventory management application focused on scalable backend architecture and API development.
+### 📦 Smart Inventory Platform
 
-🔗 https://github.com/Sathwick-HK/smart-inventory-platform
+- Full-Stack Inventory Management System
+- RESTful API Development
+- PostgreSQL Database Design
+- React Frontend Integration
+- Authentication & Authorization
+- Scalable Backend Architecture
+
+
+🔗 [View Repository](https://github.com/Sathwick-HK/smart-inventory-platform)
