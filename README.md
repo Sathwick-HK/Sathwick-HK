@@ -1,11 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathwick H Kashyap
 ===========================================================================================================================================
 
-Backend Developer | Python • Django • FastAPI • Cloud & DevOps Enthusiast
+Backend Developer | Microsoft Certified: Azure Fundamentals (AZ-900) | Python • Django • FastAPI • Docker • Azure
 ---------------------------------------------------
 
 I'm a Backend Developer with hands-on experience in Python, Django, REST APIs, SQL, Git, Docker, Kubernetes, and cloud technologies.
 
+Currently working at Amazon while building production-ready backend applications using Django, FastAPI, Docker, Kubernetes, Azure, and CI/CD pipelines.
 
 I enjoy building backend applications, learning scalable system design concepts, and improving my development skills through projects and continuous practice. I'm actively preparing for software engineering opportunities focused on backend and full-stack development.
 
