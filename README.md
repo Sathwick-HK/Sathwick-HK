@@ -35,7 +35,7 @@ I enjoy building backend applications, learning scalable system design concepts,
 ## 🏆 Certifications
 
 <p align="left">
-  <a href="[YOUR_MICROSOFT_CREDENTIAL_LINK](https://learn.microsoft.com/api/credentials/share/en-us/SathwickHKashyap-0731/2E1E50B989AF10EF?sharingId=99C80B6F5653B680)" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SathwickHKashyap-0731/2E1E50B989AF10EF?sharingId=99C80B6F5653B680" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
 </p>
