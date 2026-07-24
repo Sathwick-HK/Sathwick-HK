@@ -68,3 +68,8 @@ I enjoy building backend applications, learning scalable system design concepts,
 
 
 🔗 [View Repository](https://github.com/Sathwick-HK/smart-inventory-platform)
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sathwick-HK&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
