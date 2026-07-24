@@ -11,7 +11,7 @@ I enjoy building backend applications, learning scalable system design concepts,
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [sathwick96@gmail.com](mailto:sathwick96@gmail.com)
-* 🧠  I'm currently learning Django REST Framework, Advanced Python, SQL Optimization, and Backend System Design.
+* 🧠  Microsoft Certified: Azure Fundamentals (AZ-900) | Currently preparing for Azure Administrator (AZ-104), Advanced Python, SQL Optimization, and Backend System Design.
 * 👥  I'm looking to collaborate on Backend projects, APIs, open-source contributions, and beginner-friendly full-stack applications.
 * 💬  Ask me about Passionate about continuous learning, clean code, and building scalable applications.
 
