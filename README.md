@@ -53,6 +53,7 @@ I enjoy building backend applications, learning scalable system design concepts,
 - JWT Authentication
 - Docker & Kubernetes
 - GitHub Actions CI/CD
+- Successfully Deployed on Microsoft Azure
 - Prometheus & Grafana
 
 🔗 [View Repository](https://github.com/Sathwick-HK/vehicle-inventory-management-system)
